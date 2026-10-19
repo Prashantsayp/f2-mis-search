@@ -1,0 +1,8 @@
+{
+  "name": "Remix mis search integrate v7",
+  "description": "Enterprise Google Drive data directory, recursive Excel workbook scanner, source tracker, and ultra-fast multi-sheet search index.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

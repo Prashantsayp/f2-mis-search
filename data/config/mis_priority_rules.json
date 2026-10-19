@@ -1,0 +1,289 @@
+[
+  {
+    "id": "team_x",
+    "rank": 1,
+    "name": "TEAM X",
+    "categoryKey": "team_x",
+    "description": "TEAM X workfile & directory (e.g. TEAM X IMG, TEAM X DENTAL)",
+    "filePatterns": [
+      "TEAM X",
+      "TEAMX",
+      "TEAM_X"
+    ],
+    "folderPatterns": [
+      "TEAM X",
+      "TEAMX",
+      "TEAM_X"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#8b5cf6",
+    "badgeBg": "bg-violet-500/15",
+    "badgeText": "text-violet-400",
+    "badgeBorder": "border-violet-500/30"
+  },
+  {
+    "id": "file_jan",
+    "rank": 2,
+    "name": "Jan.xlsx",
+    "categoryKey": "file_jan",
+    "description": "Jan.xlsx workfile in DOCTORS / f2 Leads (P1 > P2 > P3 > P4 > P5)",
+    "filePatterns": [
+      "Jan.xlsx",
+      "JAN.xlsx",
+      "Jan",
+      "JAN"
+    ],
+    "folderPatterns": [
+      "f2 Leads",
+      "f2"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#10b981",
+    "badgeBg": "bg-emerald-500/15",
+    "badgeText": "text-emerald-400",
+    "badgeBorder": "border-emerald-500/30"
+  },
+  {
+    "id": "file_may",
+    "rank": 3,
+    "name": "MAY.xlsx",
+    "categoryKey": "file_may",
+    "description": "MAY.xlsx workfile in DOCTORS / f2 Leads (P1 > P2 > P3 > P4 > P5)",
+    "filePatterns": [
+      "MAY.xlsx",
+      "May.xlsx",
+      "MAY",
+      "May"
+    ],
+    "folderPatterns": [
+      "f2 Leads",
+      "f2"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#059669",
+    "badgeBg": "bg-emerald-500/15",
+    "badgeText": "text-emerald-400",
+    "badgeBorder": "border-emerald-500/30"
+  },
+  {
+    "id": "neet",
+    "rank": 4,
+    "name": "NEET.xlsx",
+    "categoryKey": "neet",
+    "description": "NEET.xlsx workfile in DOCTORS / Neet (ordered by year 23, 22, 20, 19, 15...)",
+    "filePatterns": [
+      "NEET.xlsx",
+      "NEET"
+    ],
+    "folderPatterns": [
+      "Neet"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#a855f7",
+    "badgeBg": "bg-purple-500/15",
+    "badgeText": "text-purple-400",
+    "badgeBorder": "border-purple-500/30"
+  },
+  {
+    "id": "fresh_data_21k",
+    "rank": 5,
+    "name": "Fresh Data 21k.xlsx",
+    "categoryKey": "fresh_data_21k",
+    "description": "Fresh Data 21k.xlsx workfile in DOCTORS / Neet support data",
+    "filePatterns": [
+      "Fresh Data 21k.xlsx",
+      "Fresh Data 21k",
+      "21k"
+    ],
+    "folderPatterns": [
+      "Neet support data",
+      "sample neet"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#06b6d4",
+    "badgeBg": "bg-cyan-500/15",
+    "badgeText": "text-cyan-400",
+    "badgeBorder": "border-cyan-500/30"
+  },
+  {
+    "id": "fresh_data_30k",
+    "rank": 6,
+    "name": "Fresh Data 30k.xlsx",
+    "categoryKey": "fresh_data_30k",
+    "description": "Fresh Data 30k.xlsx workfile in DOCTORS / Neet support data",
+    "filePatterns": [
+      "Fresh Data 30k.xlsx",
+      "Fresh Data 30k",
+      "30k"
+    ],
+    "folderPatterns": [
+      "Neet support data",
+      "sample neet"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#3b82f6",
+    "badgeBg": "bg-blue-500/15",
+    "badgeText": "text-blue-400",
+    "badgeBorder": "border-blue-500/30"
+  },
+  {
+    "id": "tata_points",
+    "rank": 7,
+    "name": "Tata Points Main.xlsx",
+    "categoryKey": "tata_points",
+    "description": "Tata Points Main.xlsx workfile in DOCTORS / Tata Points",
+    "filePatterns": [
+      "Tata Points Main.xlsx",
+      "Tata Points Main",
+      "Tata Points",
+      "Tata"
+    ],
+    "folderPatterns": [
+      "Tata Points",
+      "Tata"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#eab308",
+    "badgeBg": "bg-yellow-500/15",
+    "badgeText": "text-yellow-400",
+    "badgeBorder": "border-yellow-500/30"
+  },
+  {
+    "id": "login",
+    "rank": 8,
+    "name": "LOGIN.xlsx",
+    "categoryKey": "login",
+    "description": "LOGIN.xlsx workfile in DOCTORS / Login with month (Jan, May, June...)",
+    "filePatterns": [
+      "LOGIN.xlsx",
+      "LOGIN"
+    ],
+    "folderPatterns": [
+      "Login"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#f97316",
+    "badgeBg": "bg-orange-500/15",
+    "badgeText": "text-orange-400",
+    "badgeBorder": "border-orange-500/30"
+  },
+  {
+    "id": "icic_login",
+    "rank": 9,
+    "name": "ICICI BANK LOGIN DATA Updated.xlsx",
+    "categoryKey": "icic_login",
+    "description": "ICICI BANK LOGIN DATA Updated.xlsx workfile in PL folder",
+    "filePatterns": [
+      "ICICI BANK LOGIN DATA Updated.xlsx",
+      "ICICI BANK LOGIN DATA",
+      "ICICI",
+      "ICIC"
+    ],
+    "folderPatterns": [
+      "PL",
+      "ICIC LOGIN",
+      "ICICI LOGIN",
+      "ICICI"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#ec4899",
+    "badgeBg": "bg-pink-500/15",
+    "badgeText": "text-pink-400",
+    "badgeBorder": "border-pink-500/30"
+  },
+  {
+    "id": "lot",
+    "rank": 10,
+    "name": "LOT.xlsx",
+    "categoryKey": "lot",
+    "description": "LOT.xlsx workfile in DOCTORS / lot with lot number (Lot 1, Lot 2, Lot 3...)",
+    "filePatterns": [
+      "LOT.xlsx",
+      "LOT"
+    ],
+    "folderPatterns": [
+      "lot"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#f59e0b",
+    "badgeBg": "bg-amber-500/15",
+    "badgeText": "text-amber-400",
+    "badgeBorder": "border-amber-500/30"
+  },
+  {
+    "id": "directory",
+    "rank": 11,
+    "name": "Consolidated Directories.xlsx",
+    "categoryKey": "directory",
+    "description": "Consolidated Directories.xlsx workfile in DOCTORS / Directory",
+    "filePatterns": [
+      "Consolidated Directories.xlsx",
+      "Consolidated Directories",
+      "Directory"
+    ],
+    "folderPatterns": [
+      "Directory",
+      "Consolidated Directories"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#94a3b8",
+    "badgeBg": "bg-slate-500/15",
+    "badgeText": "text-slate-400",
+    "badgeBorder": "border-slate-500/30"
+  },
+  {
+    "id": "file_bl",
+    "rank": 12,
+    "name": "BL",
+    "categoryKey": "bl",
+    "description": "BL workfile in BL folder (Business Loan directory)",
+    "filePatterns": [
+      "BL",
+      "BL.xlsx"
+    ],
+    "folderPatterns": [
+      "BL"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#14b8a6",
+    "badgeBg": "bg-teal-500/15",
+    "badgeText": "text-teal-400",
+    "badgeBorder": "border-teal-500/30"
+  },
+  {
+    "id": "mis_dir_pl",
+    "rank": 13,
+    "name": "PL",
+    "categoryKey": "mis_dir_pl",
+    "description": "Directory: PL",
+    "filePatterns": [
+      "PL"
+    ],
+    "folderPatterns": [
+      "PL"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#ec4899",
+    "badgeBg": "bg-pink-500/15",
+    "badgeText": "text-pink-400",
+    "badgeBorder": "border-pink-500/30"
+  },
+  {
+    "id": "mis_dir_doctors",
+    "rank": 14,
+    "name": "DOCTORS",
+    "categoryKey": "mis_dir_doctors",
+    "description": "Directory: DOCTORS",
+    "filePatterns": [
+      "DOCTORS"
+    ],
+    "folderPatterns": [
+      "DOCTORS"
+    ],
+    "neetYearOrder": "desc",
+    "color": "#8b5cf6",
+    "badgeBg": "bg-violet-500/15",
+    "badgeText": "text-violet-400",
+    "badgeBorder": "border-violet-500/30"
+  }
+]
